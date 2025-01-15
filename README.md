@@ -2,7 +2,7 @@
 <p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A PASSIONATE SOFTWARE ENGINEER</p>
 
 # 💫 About Me:
-🔭I'm Currently Studying Final Year Artificial Intelligence and Machine Learning <br>⚡ I’m currently learning **Data Structures and Algorithms (DSA)<br>⚡ I’m currently learning **DevOps**<br>📑 Check out my resume here [My-Resume](Check out my resume here [My-Resume](https://drive.google.com/file/d/1NB0D-avNJnFK0oDTCOf1BYx1aBolBy6_/view?usp=drivesdk))<br>👨‍💻 All of my projects are available on [Github](https://github.com/srujanys88)<br>💬 Ask me about **Programming, AIML and DevOps**<br>📫 How to reach me **srujanys88@gmail.com**<br>
+🔭I'm Currently Studying Final Year Artificial Intelligence and Machine Learning <br>⚡ I’m currently learning **Data Structures and Algorithms (DSA)<br>⚡ I’m currently learning **DevOps**<br>📑 Check out my resume here [My-Resume](https://drive.google.com/file/d/1mHob1iUAoc0VdgY_EnnSq9-Qn-pJ7Zjy/view?usp=drive_link)<br>👨‍💻 All of my projects are available on [Github](https://github.com/srujanys88)<br>💬 Ask me about **Programming, AIML and DevOps**<br>📫 How to reach me **srujanys88@gmail.com**<br>
 
 
 ## 🌐 Socials:
